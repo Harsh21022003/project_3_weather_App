@@ -34,6 +34,7 @@ A sleek and responsive **Weather App** built using **HTML**, **CSS**, and **Java
 ```bash
 git clone https://github.com/Harsh21022003/project_3_weather_App.git
 
+```
 ## Run Locally
 Open index.html in a browser
 
